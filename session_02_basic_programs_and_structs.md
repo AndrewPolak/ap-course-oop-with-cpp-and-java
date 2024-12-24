@@ -99,6 +99,7 @@ Functions allow you to break down complex tasks into smaller, reusable units. Th
   ```
 
 **Parameters and Return Values:**
+
 - Parameters let you pass data into a function, and return values allow a function to send data back.
 - Functions can be used to structure logic. For example, `int max(int a, int b)` returns the larger of two integers.
 
